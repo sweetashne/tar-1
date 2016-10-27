@@ -117,7 +117,7 @@ Legenda:
 1. [Novik Aleksandr](https://github.com/AliaksandrN)
 1. Radski, Paweł
 1. Rumanoski Krzysztof 24.10
-1. Rutkowski, Mariusz
+1. [Rutkowski, Mariusz](https://github.com/sweetashne/tar)
 1. [Sasin Jacek](https://github.com/jsasin)
 1. [Sędek Szymon](https://github.com/GSun12)
 1. Strójwąs Piotr 24.10
